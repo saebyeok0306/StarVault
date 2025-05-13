@@ -13,3 +13,9 @@ starcraft ↔ launcher(client) ↔ backend(server) ↔ database
 - [ ] backend development (java spring)
 - [ ] database setup (pending, PostgreSQL or MongoDB)
 - [ ] chzzk api
+
+## Features
+
+1. Save&Load Game Data
+2. Query top/bottom N Players by various metrics
+3. Implement a global variable concept for game data (e.g., Boss monster HP)
