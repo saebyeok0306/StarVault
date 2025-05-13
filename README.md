@@ -11,5 +11,5 @@ starcraft ↔ launcher(client) ↔ backend(server) ↔ database
 - [ ] Launcher core logic development (core feature, developer eps build)
 - [ ] Launcher UI development (winform)
 - [ ] backend development (java spring)
-- [ ] database setup (pending)
+- [ ] database setup (pending, PostgreSQL or MongoDB)
 - [ ] chzzk api
