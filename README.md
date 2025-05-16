@@ -1,7 +1,7 @@
 # StarVault
 
-StarCraft Data Repository 역할을 할 수 있는 런처 연구 중.<br>
-개인 토이프로젝트 목적으로 시작했으며, 최종목표는 치지직 API 연동까지.
+This is a personal toy project to develop a launcher that functions as a StarCraft Data Repository.<br>
+The final goal is Chzzk API integration.
 
 ## Roadmap
 
@@ -16,6 +16,9 @@ starcraft ↔ launcher(client) ↔ backend(server) ↔ database
 
 ## Features
 
-1. Save&Load Game Data
-2. Query top/bottom N Players by various metrics
-3. Implement a global variable concept for game data (e.g., Boss monster HP)
+1. Save & Load Game Data
+2. Load Top/Bottom N Game Data
+3. Load Text Data
+4. Add a global variable that can be changed in-game (e.g., Boss Monster HP)
+5. Controlling transmission speed by MSQC
+6. Encrypting communication between the SCMap and the StarVault Launcher (▲)
